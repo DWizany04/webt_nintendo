@@ -1,0 +1,213 @@
+<<<<<<< HEAD
+body {
+    background-image: url(Pictures/Nintendo_bg.svg);
+    background-repeat: repeat;
+    background-color: #ffffff;
+    background-size: 350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 20px;
+}
+h1
+{
+    color: #000000;
+    font-size: 2.5em;
+}
+h2
+{
+    color: #fd0000;
+    font-size: 2em;
+}
+h3
+{
+    color: #000000;
+    font-size: 1.5em;
+}
+#title_image img{
+    position: absolute;
+  }
+  
+  #title_image img{
+    position: absolute;
+    height: auto; width: 400px;    
+    right: 100px; top: 9px;
+  }
+
+.zeldaPic {
+    background: url(Pictures/Zelda_Front.jpg);
+    height: 250px;
+    width: 150px;
+  }
+
+  .zeldaPic:hover {
+    background: url(Pictures/Zelda_Back.jpg);
+    height: 250px;
+    width: 150px;
+  }
+  .AllStarPic {
+    background: url(Pictures/SuperMario_Front.jpg);
+    height: 250px;
+    width: 150px;
+  }
+
+  .AllStarPic:hover {
+    background: url(Pictures/SuperMario_Back.jpg);
+    height: 250px;
+    width: 150px;
+  }
+  .smm2Pic {
+    background: url(Pictures/MarioMaker_Front.jpg);
+    height: 250px;
+    width: 150px;
+  }
+
+  .smm2Pic:hover {
+    background: url(Pictures/MarioMaker_Back.jpg);
+    height: 250px;
+    width: 150px;
+  }
+
+table{
+    background-color: #6d6767;
+}
+
+th{
+  border-bottom: 1px solid #ddd;
+  font-size: 1.3em;
+}
+
+.gamename
+{
+    font-weight: bold;
+    
+}
+
+td{
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  padding: 1em;
+  
+}
+
+tr:nth-child(even) {
+    background-color: #8a8989;
+}
+
+tr:nth-child(odd) {
+  background-color: #797878;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  clear: both;
+}
+=======
+body {
+    background-image: url(Pictures/Nintendo_bg.svg);
+    background-repeat: repeat;
+    background-color: #ffffff;
+    background-size: 350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 20px;
+}
+h1
+{
+    color: #000000;
+    font-size: 2.5em;
+}
+h2
+{
+    color: #fd0000;
+    font-size: 2em;
+}
+h3
+{
+    color: #000000;
+    font-size: 1.5em;
+}
+#title_image img{
+    position: absolute;
+  }
+  
+  #title_image img{
+    position: absolute;
+    height: auto; width: 400px;    
+    right: 100px; top: 9px;
+  }
+
+.zeldaPic {
+    background: url(Pictures/Zelda_Front.jpg);
+    height: 250px;
+    width: 150px;
+  }
+
+  .zeldaPic:hover {
+    background: url(Pictures/Zelda_Back.jpg);
+    height: 250px;
+    width: 150px;
+  }
+  .AllStarPic {
+    background: url(Pictures/SuperMario_Front.jpg);
+    height: 250px;
+    width: 150px;
+  }
+
+  .AllStarPic:hover {
+    background: url(Pictures/SuperMario_Back.jpg);
+    height: 250px;
+    width: 150px;
+  }
+  .smm2Pic {
+    background: url(Pictures/MarioMaker_Front.jpg);
+    height: 250px;
+    width: 150px;
+  }
+
+  .smm2Pic:hover {
+    background: url(Pictures/MarioMaker_Back.jpg);
+    height: 250px;
+    width: 150px;
+  }
+
+table{
+    background-color: #6d6767;
+}
+
+th{
+  border-bottom: 1px solid #ddd;
+  font-size: 1.3em;
+}
+
+.gamename
+{
+    font-weight: bold;
+    
+}
+
+td{
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  padding: 1em;
+  
+}
+
+tr:nth-child(even) {
+    background-color: #8a8989;
+}
+
+tr:nth-child(odd) {
+  background-color: #797878;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  clear: both;
+}
+>>>>>>> a8a1c5b096895bdcf624f26435a876d612063239
