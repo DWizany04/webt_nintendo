@@ -4,7 +4,7 @@
   overflow: hidden;
   height: 60px;
   text-align: center;
-
+  list-style: none;
 }
 .navigation a
  {
@@ -56,6 +56,11 @@
   width: 10%;
   text-decoration: none;
   color: white;
+  font-size: large;
+}
+li
+{
+list-style-type: none;  
 }
 .submenu a
 {
@@ -67,6 +72,7 @@
 {
   float: right;
   width: 90%;
+  font-size: large;
 }
 .textcontent img
 {

@@ -46,7 +46,7 @@
   url(Pictures/bg.png);
    background-size: 1.6cm;
    background-color: rgb(40,39,39);
-   margin: 0px;
+   margin: none;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    color: white;
  }
@@ -55,17 +55,24 @@
   text-align: center;
   float: left;
   width: 10%;
+  font-size: large;
 }
 .submenu a
 {
   text-align: left;
   text-decoration: none;
   color: white;
+  font-size: large;
+}
+li
+{
+list-style-type: none;  
 }
 .textcontent
 {
   float: right;
   width: 90%;
+  font-size: large;
 }
 .textcontent img
 {
