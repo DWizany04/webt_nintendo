@@ -34,7 +34,7 @@
 
  .nintendoLogo a
  {
-  text-align: right;
+  text-align: center;
   position: relative;
   float: right;
   clear: both;
@@ -47,7 +47,7 @@
    background-color: rgb(40, 39, 39);
    margin: 0px;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   color: white;
+   color: red;
  }
  .titleImage
  {
